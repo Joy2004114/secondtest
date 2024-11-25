@@ -5,22 +5,22 @@ app.get("/", (req, res) => {
   res.json([
     {
       id: 1,
-      name: "rifat",
+      name: "emmu",
       age: 23,
     },
     {
       id: 3,
-      name: "rifateee",
+      name: "emmu",
       age: 23,
     },
     {
       id: 4,
-      name: "jrifatdas",
+      name: "emmu",
       age: 26,
     },
     {
       id: 2,
-      name: "rifat",
+      name: "emmu",
       age: 240,
     },
   ]);
